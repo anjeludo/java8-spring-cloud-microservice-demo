@@ -11,3 +11,5 @@ El ejemplo consta de cuatro microservicios:
    - reports-api:  Aplicación Spring Boot en el puerto 8004
 
 Este ejemplo tiene dos resource servers para demostrar el uso de Feign en la comunicación entre microservicios.
+
+La carpeta postman-collection contiene algunos scripts para importar y probar directamente con Postman
